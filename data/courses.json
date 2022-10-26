@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"C++ Programming Language",
+        "img":"https://i.ibb.co/C6zM1Js/c.png",
+        "instructor":"Abdur Rahman",
+        "description":"C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms.",
+        "enrolled":"200",
+        "rating":"4.5",
+        "price":"5000"
+    },
+    {
+        "id":2,
+        "name":"Java Object Oriented language",
+        "img":"https://i.ibb.co/WkcrkXX/java.png",
+        "instructor":"Sadman sakib",
+        "description":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "enrolled":"300",
+        "rating":"5",
+        "price":"5500"
+    },
+    {
+        "id":3,
+        "name":"Laravel(Framework of PHP)",
+        "img":"https://i.ibb.co/GCPbW2V/laravel.png",
+        "instructor":"Obydur Rahman",
+        "description":"Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.",
+        "enrolled":"300",
+        "rating":"4",
+        "price":"4000"
+    },
+    {
+        "id":4,
+        "name":"node(Server Side language)",
+        "img":"https://i.ibb.co/WHMGHGK/node.png",
+        "instructor":"Rebeka Karim",
+        "description":"Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. ",
+        "enrolled":"550",
+        "rating":"7.5",
+        "price":"5500"
+    },
+    {
+        "id":5,
+        "name":"Python(Scripting Language)",
+        "img":"https://i.ibb.co/NKdzFY8/python.png",
+        "instructor":"Rashedur Islam",
+        "description":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected",
+        "enrolled":"440",
+        "rating":"5",
+        "price":"4000"
+    },
+    {
+        "id":6,
+        "name":"React(javascript library)",
+        "img":"https://i.ibb.co/dtxn2m2/react.png",
+        "instructor":"Asraful Alam",
+        "description":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "enrolled":"500",
+        "rating":"5",
+        "price":"5050"
+    }
+]
